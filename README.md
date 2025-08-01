@@ -98,20 +98,6 @@ for r in hasil:
 
 print("Stream kamera dihentikan.")
 ```
-
-## 📁 Struktur Direktori
-
-```
-YOLO-KINGPHOENIX/
-├── best.pt
-├── README.md
-├── run_detection.py
-├── dataset/
-│   ├── images/
-│   └── labels/
-└── ...
-```
-
 ## ❓ FAQ
 
 - **Bagaimana cara mengganti model?**  
